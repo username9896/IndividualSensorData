@@ -63,7 +63,7 @@ const options = {
         },
         servers: [
             {
-                url: "http://localhost:5003",
+                url: "https://individualsensordata.onrender.com",
             },
         ],
     },
